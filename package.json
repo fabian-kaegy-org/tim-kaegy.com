@@ -1,0 +1,16 @@
+{
+  "name": "tim-kaegy",
+  "version": "1.0.0",
+  "description": "WordPress instalation for tim-kaegy.com",
+  "scripts": {
+    "start": "wp-env start",
+    "stop": "wp-env stop",
+    "env": "wp-env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/env": "^4.1.0"
+  }
+}

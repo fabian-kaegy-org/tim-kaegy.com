@@ -1,0 +1,3 @@
+[submodule "themes/tim"]
+	path = themes/tim
+	url = git@github.com:fabian-kaegy-org/tim.git
